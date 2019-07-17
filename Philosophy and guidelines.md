@@ -84,6 +84,4 @@ As tough as fieldwork can be, I find non-field time harder. Fieldwork often come
 *	Learn to keep a budget of research expenses.
 *	**Be kind to yourself and others** (yes this is on the list twice. It’s the most important thing on there.)
 
-
-
 The material in this guide is based heavily on the work of other PIs who were kind enough to share theirs publically – these include: [Prof. Dan Bolnick](http://ecoevoevoeco.blogspot.com); Dr. Kirstie Whitaker; Dr. Christie Bahlai @cbahlai; and [Dr. Timothée Poisot](https://poisotlab.io).
