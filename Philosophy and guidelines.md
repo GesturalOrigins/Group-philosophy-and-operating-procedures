@@ -1,6 +1,5 @@
 # Philosophy
-> I may not have gone where I intended to go, but I think I have ended up where I needed to be. 
-Douglas Adams.
+> I may not have gone where I intended to go, but I think I have ended up where I needed to be. (Douglas Adams)
 
 In this lab we study the ethology of wild primates to gain a better understanding of their and our behaviour and cognition. To do so we draw on biology, socio-ecology, anthropology, psychology, philosophy, and more. We are holistic researchers.
 Ethology is the process of ‘interviewing’ an animal in their own language (Tinbergen). Modern primate species are of interest to us in their own right. While they also provide a scaffold to understanding our own evolution, all species behavioural repertoires represent unique adaptations to their own particular niche. When we employ a uniquely anthropocentric perspective, we risk missing extraordinary species-specific capacities.
@@ -80,8 +79,7 @@ As tough as fieldwork can be, I find non-field time harder. Fieldwork often come
 *	Make a twitter account, it’s the best way to extend your scientific network in our field. You can use this to find new papers, funding, and jobs. You can also use this to share and participate actively in the online community. Treat this as an extension of your working self, engage our community honestly and respectfully.
 *	Read about scientific ethics, philosophy of science, and history of science.
 *	Learn to keep a budget of research expenses.
-*	Be kind to yourself and others<sup>1</sup>
-* <sup>1</sup>yes this is on the list twice. It’s the most important thing on there.
+*	Be kind to yourself and others (yes this is on the list twice. It’s the most important thing on there.)
 
 
 The material in this lab guide is based heavily on the work of other PIs who were kind enough to share theirs publically – these include: [Prof. Dan Bolnick](http://ecoevoevoeco.blogspot.com); Dr. Kirstie Whitaker; Dr. Christie Bahlai @cbahlai; and [Dr. Timothée Poisot](https://poisotlab.io).
