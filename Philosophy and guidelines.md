@@ -29,7 +29,7 @@ We do not tolerate bigotry, abuse, or harassment. We value and support diversity
 
 We do no harm. We acknowledge that all data collection has an impact on the species we work with, we seek to minimise this at all times. The well-being of the non-human individuals we work with always has priority over any data we collect. There will be times where this means accepting that some data, and some types of data, should not be collected.
 
-Honesty is essential for correct science. We prefer to avoid mistakes, but mistakes happen for all of us. We take a deep breath, acknowledge them, and fix them.We are members of a wider scientific community; we both contribute to it, and draw upon it when needed. We communicate openly with our colleagues. We seek out frank but constructive and kind criticism. We return the favour.
+Honesty is essential for correct science. We prefer to avoid mistakes, but mistakes happen for all of us. We take a deep breath, acknowledge them, and fix them. We are members of a wider scientific community; we both contribute to it, and draw upon it when needed. We communicate openly with our colleagues. We seek out frank but constructive and kind criticism. We return the favour.
 
 We attend lab groups, journal clubs, and School seminars. Even where these are not directly in our area of interest they are an opportunity to learn new approaches and to participate in wider scientific discussion.
 
