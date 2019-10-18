@@ -37,7 +37,7 @@ We support open science. We make our research data freely available whenever pos
 
 We are members of a global society. Making our findings and data available to those outside of our scientific community, and in particular sharing knowledge with the communities in which we work is a key part of our job. We help people see what we do but respect the constraints others work under. There are many ways we can do this (stand-up comedy, skills sharing, science communication, art, or helping to maintain the group website…) we each find something we are comfortable with contributing.
 
-Where ever possible, and including where it might cost us a little more money or time, we will make the most of any public transport or shared rides available.
+Where ever possible, and including where it might cost us a little more money or time, we will make the most of any public transport or shared ride options available.
 
 **We recognise the responsibilities we have to the communities and wider eco-systems in which we work. Respect, conserve, share knowledge, reduce, reuse, recycle. Each action makes a difference, even the small ones.**
 
