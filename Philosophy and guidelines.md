@@ -71,6 +71,7 @@ As tough as fieldwork can be, I find non-field time harder. Fieldwork often come
 *	You earn first authorship if you do most of the data collection, analysis, and writing.
 *	You earn co-first-authorship if you and someone else either did equal amounts of work or each contributed most of different stages (collection, analysis, writing)
 *	You earn co-authorship if you contribute essential effort to getting a substantial portion of the data, analysis on, or writing of the paper.
+* You earn co-authorship if you develop a methods contribution (e.g. a coding scheme or analysis) that you are happy to share, and have not yet published with yourself.
 *	You must have read, understood, and approved any paper you are co-author on. We will make sure that everyone who has collected a substantial portion of the data has the opportunity to do so.
 
 ## Your obligations to yourself
