@@ -72,6 +72,7 @@ As tough as fieldwork can be, I find non-field time harder. Fieldwork often come
 *	You earn co-first-authorship if you and someone else either did equal amounts of work or each contributed most of different stages (collection, analysis, writing)
 *	You earn co-authorship if you contribute essential effort to getting a substantial portion of the data, analysis on, or writing of the paper.
 * You earn co-authorship if you develop a methods contribution (e.g. a coding scheme or analysis) that you are happy to share, and have not yet published with yourself.
+* We follow the CRediT authorship suggestions based on Brand et al. (2015) Taxonomy of contributor roles in academic papers, as these help to make it clear the different roles that are all essential to the final step of publishing a paper.
 *	You must have read, understood, and approved any paper you are co-author on. We will make sure that everyone who has collected a substantial portion of the data has the opportunity to do so.
 
 ## Your obligations to yourself
